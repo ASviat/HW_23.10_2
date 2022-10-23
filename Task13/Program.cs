@@ -18,7 +18,7 @@ void ThirdNumber(int num)
     {
         int count = -3;
         int copy = num;
-        int kostyl = num;
+        
         while (copy > 0)
         {
 
